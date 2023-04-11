@@ -1,6 +1,6 @@
 const Index=()=>{
     return <div>
-        This is index file
+        Working on next routing
     </div>
 }
 
