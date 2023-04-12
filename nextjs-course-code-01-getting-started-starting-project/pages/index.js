@@ -1,6 +1,6 @@
 const Index=()=>{
     return <div>
-        Working on next routing
+        Working on nextjs routing
     </div>
 }
 
